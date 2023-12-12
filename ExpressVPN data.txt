@@ -1,0 +1,8 @@
+#F9F8F2 - header
+#0F866C - zeleni button
+#ffffff - bijela
+#001827 - footer
+
+https://www.flaticon.com/
+
+https://www.expressvpn.com/go/home?category=VPN&subcategory=vpnphrase&lang=en

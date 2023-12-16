@@ -810,7 +810,7 @@ font-size: 17pt
             
             header{
                 width: 100vw;
-                height: px;
+                height: 5px;
             }
 
             .navBar{
@@ -894,12 +894,12 @@ font-size: 17pt
 
                 .f4{
                     font-family: Georgia, 'Times New Roman', Times, serif;
-                    font-size: 22pt;
+                    font-size: 28pt;
                     text-align: center;
                     margin-left: 0px;
                     font-weight: 551;
                     letter-spacing: 2px;
-                    margin-top: 660px;
+                    margin-top: 630px;
                 }
                 
                 .devicesImg {
@@ -952,19 +952,19 @@ font-size: 17pt
                 }
 
                 .textEdit1{
-                    padding: 0 10px;
+                    margin-left: 15px;
                     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                     font-size: 12pt;
                     font-weight: 400;
                     width: 340px;
-                    text-align: center;
+                    text-align: justify;
                     justify-self: start;
                     color: black;
                 }
 
                 .icon-grid {
                     margin-top: 15px; 
-                    margin-left: 24px;
+                    margin-left: 40px;
                     margin-bottom: 20px;            
                     padding-top: 15px;
                     width: 20%;
@@ -1001,7 +1001,7 @@ font-size: 17pt
                             font-weight: 300;
                             text-align: center;
                             width: 100%;
-                            padding-left: 180px;
+                            padding-left: 135px;
                                 }
                 
                 .textEdit3{
@@ -1009,7 +1009,7 @@ font-size: 17pt
                             margin-left: 200px;
                             text-align: center left;
                             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                            font-size: 11pt;
+                            font-size: 13pt;
                             font-weight: 400;
                             width: 220px;
                             
@@ -1082,7 +1082,9 @@ font-size: 17pt
                                   
                 .flex-items2:nth-child(2) {
                         margin-left: 30px;
-                        width: 100%;
+                        width: 70%;
+                        padding-right: 0;
+                        margin-right: px;
                         display: flex;
                         flex-direction: column;
                         align-self: start;
@@ -1097,7 +1099,7 @@ font-size: 17pt
                 .textEdit5{
                     text-align: center left;
                     width: 100%;
-                    margin-left: 80px;
+                    margin-left: 70px;
                 }
 
                 .greenButton3{
@@ -1108,14 +1110,14 @@ font-size: 17pt
 
                
                 .f5{
-                    margin-left: 35px;
+                    margin-left: 15px;
                     font-size: 16pt;
                     text-align: center;
                     margin-right: 25px;
                 }
 
                 .textEdit6{
-                    margin-left: 42px;
+                    margin-left: 50px;
                 }
 
                 
@@ -1293,7 +1295,7 @@ font-size: 17pt
         }
           
           .foot1 { 
-                    margin-left: 0;
+                    margin-left: 30px;
                     grid-area: foot1; 
                     display: flex;
                     flex-direction: column;
@@ -1306,7 +1308,7 @@ font-size: 17pt
 
           .foot2 { 
                     grid-area: foot2;
-                    margin-left: 20px;
+                    margin-left: 60px;
                     margin-right: 0;
                     flex-direction: row;
                     justify-content: center;
